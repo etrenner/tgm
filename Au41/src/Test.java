@@ -1,5 +1,5 @@
-
 public class Test {
 	//Test
-	// €nderung 01
+	// ï¿½nderung 01
+	// Aenderung 02
 }
